@@ -1,6 +1,6 @@
 var div1 = document.createElement('div')
 div1.className = 'demo'
-div1.style.top = '10px'
+div1.style.top = '20px'
 
 document.body.appendChild(div1)
 
